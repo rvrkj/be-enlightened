@@ -520,7 +520,9 @@ h6,
   margin: 0 8px;
 }
 
-#hero .php-email-form button[type=submit] {
+
+
+.join-btn{
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -535,9 +537,6 @@ h6,
   background: #fd680e;
 }
 
-#hero .php-email-form button[type=submit]:hover {
-  background: #fd8841;
-}
 
 @media (min-width: 1024px) {
   #hero {
