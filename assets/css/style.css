@@ -770,7 +770,7 @@ section {
 }
 
 .contact .info p {
-  padding: 0 0 10px 50px;
+  /* padding: 0 0 10px 50px; */
   margin-bottom: 20px;
   line-height: 22px;
   font-size: 14px;
